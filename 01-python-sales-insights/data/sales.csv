@@ -1,0 +1,221 @@
+date,product,city,channel,quantity,unit_price
+2025-11-11,T-Shirt,Pretoria,Website,1,204
+2025-10-12,Sticker Pack,Pretoria,Website,2,82
+2025-12-14,Hoodie,Gqeberha,In-store,1,563
+2025-10-16,Mug,Durban,Instagram,1,136
+2025-12-03,Mug,Pretoria,WhatsApp,4,183
+2025-11-01,Hoodie,Gqeberha,WhatsApp,5,703
+2025-12-05,Sticker Pack,Cape Town,WhatsApp,2,72
+2025-11-10,Cap,Durban,In-store,5,131
+2025-10-08,Cap,Gqeberha,In-store,3,122
+2025-12-03,Hoodie,Cape Town,WhatsApp,2,576
+2025-12-10,Cap,Cape Town,In-store,5,165
+2025-10-23,T-Shirt,Cape Town,Instagram,1,226
+2025-12-18,Mug,Durban,Instagram,5,220
+2025-12-01,Sticker Pack,Johannesburg,Instagram,1,37
+2025-12-12,T-Shirt,Gqeberha,Website,3,198
+2025-11-14,Mug,Durban,In-store,1,243
+2025-11-13,Cap,Pretoria,Instagram,5,187
+2025-12-07,Cap,Johannesburg,WhatsApp,5,165
+2025-11-12,T-Shirt,Gqeberha,  ,2,238
+2025-10-04,Cap,Pretoria,WhatsApp,2,212
+2025-11-30,T-Shirt,Durban,Instagram,4,302
+2025-11-19,T-Shirt,Pretoria,Instagram,4,202
+2025-10-21,T-Shirt,Cape Town,Website,2,217
+2025-12-10,Mug,Cape Town,Website,1,155
+2025-10-28,Hoodie,Durban,Instagram,3,706
+2025-10-17,Hoodie,Durban,  ,5,714
+2025-11-26,T-Shirt,Gqeberha,Website,2,216
+2025-12-06,Mug,Gqeberha,In-store,1,190
+2025-11-27,Mug,Johannesburg,Website,4,171
+2025-12-08,Sticker Pack,Gqeberha,Instagram,5,38
+2025-10-10,T-Shirt,Pretoria,Website,2,211
+2025-11-29,T-Shirt,Johannesburg,In-store,4,237
+2025-11-23,T-Shirt,Durban,  ,1,184
+2025-11-12,Mug,Gqeberha,WhatsApp,5,146
+2025-10-24,Cap,Cape Town,In-store,3,188
+2025-10-08,T-Shirt,Pretoria,Website,3,202
+2025-11-28,Hoodie,Durban,In-store,3,516
+2025-11-03,Hoodie,Cape Town,Instagram,3,606
+2025-11-04,Cap,Johannesburg,WhatsApp,1,213
+2025-11-27,Hoodie,Pretoria,In-store,5,651
+2025-12-30,T-Shirt,Pretoria,WhatsApp,1,183
+2025-12-25,Sticker Pack,Gqeberha,WhatsApp,5,59
+2025-11-03,Cap,,WhatsApp,2,147
+2025-11-30,Cap,Gqeberha,Instagram,2,131
+2025-11-20,Hoodie,Durban,WhatsApp,2,493
+2025-12-03,T-Shirt,Durban,Instagram,1,289
+2025-12-04,Mug,Johannesburg,Instagram,1,212
+2025-11-27,Mug,Johannesburg,Website,5,236
+2025-12-04,Mug,Johannesburg,Website,4,172
+2025-11-28,Sticker Pack,Pretoria,Website,4,70
+2025-11-02,Cap,Gqeberha,Instagram,1,182
+2025-11-07,Mug,Durban,In-store,4,199
+2025-10-03,Cap,Pretoria,Website,5,169
+2025-12-07,Cap,Durban,Instagram,5,134
+2025-12-02,Sticker Pack,Johannesburg,Instagram,1,49
+2025-10-16,Cap,Johannesburg,WhatsApp,3,145
+2025-11-17,Hoodie,Pretoria,In-store,5,489
+2025-10-07,Cap,Cape Town,Instagram,3,160
+2025-10-04,Sticker Pack,Gqeberha,Instagram,1,69
+2025-10-07,Mug,Cape Town,Instagram,4,185
+2025-11-03,Sticker Pack,Cape Town,WhatsApp,4,40
+2025-12-03,Mug,Cape Town,In-store,3,169
+2025-12-11,Hoodie,Durban,Instagram,3,582
+2025-10-27,Sticker Pack,Durban,WhatsApp,1,53
+2025-10-28,Hoodie,Durban,Instagram,4,654
+2025-11-30,Mug,Pretoria,Website,1,183
+2025-10-20,Mug,Johannesburg,In-store,1,152
+2025-12-22,Cap,Cape Town,WhatsApp,5,132
+2025-11-19,Cap,Cape Town,Website,1,178
+2025-11-30,Mug,Cape Town,Instagram,1,169
+2025-11-23,Hoodie,Durban,Instagram,4,639
+2025-11-20,T-Shirt,Johannesburg,WhatsApp,5,232
+2025-11-29,T-Shirt,Durban,WhatsApp,1,227
+2025-12-16,T-Shirt,Pretoria,Website,2,216
+2025-11-10,Hoodie,,Instagram,3,547
+2025-11-18,Cap,Durban,In-store,2,130
+2025-10-16,Mug,Cape Town,In-store,3,241
+2025-11-27,T-Shirt,Durban,  ,4,285
+2025-10-09,Hoodie,Durban,Instagram,1,623
+2025-11-10,Cap,Durban,Website,5,149
+2025-11-19,Cap,Pretoria,In-store,2,121
+2025-12-17,T-Shirt,Durban,WhatsApp,4,200
+2025-10-09,Hoodie,Pretoria,WhatsApp,2,668
+2025-12-30,Sticker Pack,Cape Town,Instagram,2,87
+2025-12-25,Hoodie,Durban,WhatsApp,3,740
+2025-11-01,T-Shirt,Cape Town,WhatsApp,5,263
+2025-10-30,Hoodie,Pretoria,Website,1,452
+2025-11-07,T-Shirt,Johannesburg,Website,2,229
+2025-12-25,Hoodie,Johannesburg,WhatsApp,2,469
+2025-12-16,T-Shirt,Johannesburg,WhatsApp,4,227
+2025-12-10,Sticker Pack,Johannesburg,In-store,1,70
+2025-11-04,Sticker Pack,Durban,  ,4,66
+2025-11-16,T-Shirt,Pretoria,In-store,2,291
+2025-11-16,Sticker Pack,Cape Town,Instagram,1,81
+2025-11-17,Mug,Cape Town,Instagram,3,137
+2025-10-26,Cap,Cape Town,Website,4,197
+2025-12-28,T-Shirt,Cape Town,In-store,5,301
+2025-10-21,Sticker Pack,Durban,Website,2,86
+2025-11-19,Mug,Pretoria,WhatsApp,4,214
+2025-10-03,Hoodie,Gqeberha,In-store,4,570
+2025-11-21,Hoodie,Johannesburg,Instagram,3,670
+2025-10-06,T-Shirt,Johannesburg,WhatsApp,5,193
+2025-10-04,Hoodie,Gqeberha,Website,2,517
+2025-10-29,Hoodie,Durban,WhatsApp,2,615
+2025-10-27,Mug,Durban,Instagram,3,223
+2025-12-26,Cap,Pretoria,Instagram,3,126
+2025-12-06,Mug,Johannesburg,WhatsApp,5,214
+2025-10-11,Sticker Pack,Cape Town,Instagram,5,46
+2025-12-14,Cap,Johannesburg,Website,2,198
+2025-10-07,T-Shirt,Pretoria,Instagram,5,185
+2025-12-08,T-Shirt,Pretoria,  ,5,232
+2025-11-01,T-Shirt,Pretoria,Website,1,249
+2025-12-11,Cap,Gqeberha,In-store,5,151
+2025-11-21,T-Shirt,Cape Town,Instagram,1,183
+2025-12-17,Mug,Pretoria,Instagram,5,132
+2025-12-01,Mug,Johannesburg,In-store,4,235
+2025-11-03,T-Shirt,Johannesburg,Website,3,193
+2025-11-03,Cap,Cape Town,Website,5,153
+2025-10-21,Cap,Cape Town,In-store,3,200
+2025-10-01,Hoodie,Pretoria,Instagram,5,607
+2025-10-05,Hoodie,,Website,5,532
+2025-12-22,Hoodie,Johannesburg,Website,1,636
+2025-11-19,Hoodie,Cape Town,Instagram,2,507
+2025-11-06,Sticker Pack,Johannesburg,Instagram,1,51
+2025-11-06,Hoodie,Durban,  ,5,707
+2025-12-06,Hoodie,Durban,In-store,1,725
+2025-11-25,Hoodie,Gqeberha,Instagram,3,477
+2025-10-24,Sticker Pack,Gqeberha,WhatsApp,5,82
+2025-10-22,Hoodie,Johannesburg,In-store,5,503
+2025-10-12,Sticker Pack,Johannesburg,WhatsApp,2,87
+2025-12-20,T-Shirt,Pretoria,Instagram,5,269
+2025-12-10,Cap,Cape Town,In-store,4,136
+2025-12-04,T-Shirt,Durban,WhatsApp,5,219
+2025-10-31,Cap,Cape Town,WhatsApp,1,145
+2025-11-08,Sticker Pack,Durban,  ,1,86
+2025-11-25,T-Shirt,,WhatsApp,4,216
+2025-11-25,Mug,Gqeberha,In-store,2,151
+2025-12-20,Hoodie,,Instagram,4,530
+2025-12-06,T-Shirt,Durban,Website,4,207
+2025-10-26,Mug,Durban,Website,5,241
+2025-11-17,Mug,Durban,In-store,4,151
+2025-12-21,Hoodie,Durban,WhatsApp,4,654
+2025-12-26,Cap,Gqeberha,WhatsApp,1,214
+2025-11-29,T-Shirt,Cape Town,Instagram,1,300
+2025-12-25,Sticker Pack,Pretoria,WhatsApp,5,80
+2025-11-02,Sticker Pack,Cape Town,In-store,1,71
+2025-12-19,Hoodie,Durban,Instagram,3,647
+2025-11-14,Mug,Johannesburg,Website,2,145
+2025-10-24,Sticker Pack,Durban,Instagram,2,69
+2025-12-21,Cap,Cape Town,In-store,2,214
+2025-10-16,Cap,Pretoria,Instagram,2,191
+2025-12-02,T-Shirt,Pretoria,Instagram,5,221
+2025-11-17,Sticker Pack,Pretoria,Website,2,69
+2025-11-12,Hoodie,Gqeberha,In-store,4,523
+2025-12-24,Cap,Durban,In-store,5,156
+2025-11-07,Cap,Durban,In-store,4,154
+2025-12-03,Hoodie,Durban,Instagram,3,603
+2025-12-10,Sticker Pack,Gqeberha,Website,4,32
+2025-12-24,Hoodie,Gqeberha,In-store,5,525
+2025-12-24,T-Shirt,Johannesburg,In-store,1,274
+2025-11-08,T-Shirt,Pretoria,Website,3,290
+2025-10-16,Sticker Pack,Gqeberha,In-store,4,54
+2025-10-14,Hoodie,Pretoria,Instagram,2,457
+2025-10-28,Hoodie,Cape Town,In-store,1,591
+2025-12-28,T-Shirt,Johannesburg,WhatsApp,5,297
+2025-10-05,Hoodie,Johannesburg,Website,5,490
+2025-12-17,Hoodie,Durban,WhatsApp,5,674
+2025-12-22,T-Shirt,Pretoria,In-store,4,249
+2025-12-23,Mug,Durban,Website,2,219
+2025-10-30,Sticker Pack,Durban,Website,3,40
+2025-12-13,T-Shirt,Durban,In-store,3,201
+2025-10-30,Cap,Gqeberha,Website,4,152
+2025-10-12,Mug,Durban,Website,2,202
+2025-10-25,T-Shirt,Cape Town,Website,2,272
+2025-10-20,T-Shirt,Johannesburg,In-store,3,275
+2025-11-14,Cap,Gqeberha,Website,1,192
+2025-11-24,Hoodie,Pretoria,Instagram,3,469
+2025-12-11,Cap,Pretoria,In-store,1,210
+2025-10-12,Mug,Pretoria,Instagram,4,176
+2025-11-15,Hoodie,Gqeberha,Website,1,582
+2025-10-01,T-Shirt,Durban,In-store,1,262
+2025-10-22,Sticker Pack,Cape Town,Instagram,1,40
+2025-11-17,T-Shirt,Pretoria,Website,4,199
+2025-12-20,Cap,Cape Town,WhatsApp,2,211
+2025-11-23,Sticker Pack,Cape Town,Instagram,1,81
+2025-11-28,Sticker Pack,Johannesburg,Instagram,5,60
+2025-11-16,Sticker Pack,Durban,Instagram,2,56
+2025-11-07,T-Shirt,Johannesburg,In-store,5,310
+2025-11-06,T-Shirt,Durban,In-store,1,235
+2025-10-30,T-Shirt,Cape Town,Website,1,250
+2025-10-25,Mug,Durban,Instagram,1,134
+2025-11-06,Sticker Pack,Johannesburg,Website,4,47
+2025-11-16,Hoodie,Cape Town,WhatsApp,5,452
+2025-11-15,T-Shirt,Durban,  ,5,254
+2025-12-08,T-Shirt,Johannesburg,Instagram,1,226
+2025-10-04,Hoodie,Johannesburg,Instagram,3,459
+2025-10-23,Hoodie,Durban,Website,4,702
+2025-10-18,Mug,Gqeberha,  ,2,162
+2025-12-21,Sticker Pack,Pretoria,Website,4,55
+2025-12-12,Cap,Pretoria,Website,3,207
+2025-12-20,Hoodie,Durban,  ,5,545
+2025-10-18,Sticker Pack,Pretoria,In-store,1,69
+2025-12-20,Mug,Johannesburg,Website,3,180
+2025-11-09,Cap,Cape Town,Website,1,130
+2025-11-07,Sticker Pack,Gqeberha,WhatsApp,3,64
+2025-12-12,T-Shirt,Pretoria,Instagram,5,297
+2025-11-01,Cap,Cape Town,Instagram,5,194
+2025-10-31,Cap,Gqeberha,WhatsApp,4,147
+2025-10-09,Mug,Durban,In-store,1,147
+2025-12-26,T-Shirt,Pretoria,WhatsApp,3,231
+2025-11-30,Cap,Cape Town,In-store,1,218
+2025-12-13,T-Shirt,Pretoria,WhatsApp,5,277
+2025-11-15,Sticker Pack,Gqeberha,In-store,3,58
+2025-10-19,Sticker Pack,Gqeberha,In-store,5,50
+2025-11-24,Hoodie,Johannesburg,Website,3,739
+2025-12-06,Mug,Pretoria,  ,4,209
+2025-10-09,Mug,Cape Town,Website,4,159
+2025-12-02,Sticker Pack,Pretoria,WhatsApp,5,50
+2025-12-05,T-Shirt,Johannesburg,WhatsApp,3,287
+2025-10-25,Sticker Pack,Cape Town,  ,5,70

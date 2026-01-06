@@ -1,0 +1,7 @@
+Sales Insights Summary
+=====================
+Rows processed: 220
+Total quantity sold: 666
+Total revenue: 178,746.00
+Top product by revenue: Hoodie
+Top city by revenue: Durban
